@@ -1,7 +1,7 @@
 # ProductCRUDApp
 Spring MVC web application
 
-**New Spring MVC web application for comprehensive product management!**
+**Product Management**
 
 **This app allows you to:**
 
